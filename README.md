@@ -11,7 +11,7 @@ predicting numbers in image with logistic regression
 
 ![Screenshot](images/2.png)
 
-### Sample correctly predicted result
+### Result of Sample correctly predicted 
 
 ![Screenshot](images/3.png)
 
